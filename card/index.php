@@ -30,6 +30,7 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
                         <a href="#" class="nav-link text-info" category="all">Todo</a>
+                        <a href="admin\index.php" class="nav-link text-info" >Admin</a>
                         <?php
                         $query = mysqli_query($conexion, "SELECT * FROM categorias");
                         while ($data = mysqli_fetch_assoc($query)) { ?>
