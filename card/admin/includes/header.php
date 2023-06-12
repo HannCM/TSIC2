@@ -13,7 +13,7 @@ if (empty($_SESSION['id'])) {
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>HS</title>
+    <title>Queen's Merch</title>
 
     <!-- Custom fonts for this template-->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
@@ -36,7 +36,7 @@ if (empty($_SESSION['id'])) {
                 <div class="sidebar-brand-icon rotate-n-15">
                   <!--  <i class="fas fa-laugh-wink"></i>-->
                 </div>
-                <div class="sidebar-brand-text mx-3">Harry Styles <sup> Merch</sup></div>
+                <div class="sidebar-brand-text mx-3">Queen <sup> Merch</sup></div>
             </a>
 
             <!-- Divider -->
